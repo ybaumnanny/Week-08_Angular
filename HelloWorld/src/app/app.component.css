@@ -4,3 +4,10 @@ img,h1{
     width: 50%;
     text-align: center;
 }
+.error{
+    margin-left:10px;
+    font-style: italic;
+    font-size: 20px;
+    color: red;
+}
+    
